@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T06:15:18.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" etag="ehkjXPIq5BZpZXv6Zwrk" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T06:15:56.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" etag="HbTMK-o9HbY6buVlzrke" version="20.3.6" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="940" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="320" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d1Up39xyb4T7po57NJti-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45236fa5f4b8e91a-1" target="45236fa5f4b8e91a-7">
+        <mxCell id="d1Up39xyb4T7po57NJti-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="d1Up39xyb4T7po57NJti-13" target="45236fa5f4b8e91a-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="145" as="targetPoint" />
           </mxGeometry>
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-8" value="客户" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="d1Up39xyb4T7po57NJti-13" value="3、签订服务购买合同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d1Up39xyb4T7po57NJti-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=2;strokeColor=#7EA6E0;exitX=0.594;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="45236fa5f4b8e91a-8" target="45236fa5f4b8e91a-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -91,6 +88,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="480" as="sourcePoint" />
             <mxPoint x="720" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1Up39xyb4T7po57NJti-13" value="3、签订服务购买合同" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d1Up39xyb4T7po57NJti-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45236fa5f4b8e91a-1" target="d1Up39xyb4T7po57NJti-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="145" as="sourcePoint" />
+            <mxPoint x="800" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
